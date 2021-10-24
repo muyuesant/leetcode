@@ -1,3 +1,2 @@
 # leetcode
-508 in_p
-
+1310 in_p
